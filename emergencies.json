@@ -1,0 +1,14 @@
+[
+  {
+    "query": "thruster malfunction RCS failure attitude control problem can't rotate spacecraft",
+    "response": "🚀 THRUSTER MALFUNCTION PROTOCOL\n\n[Your detailed response here with step-by-step procedures]\n\nExample sections:\n- Immediate actions\n- Diagnostics\n- Workarounds\n- Fuel considerations",
+    "severity": "HIGH",
+    "category": "propulsion"
+  },
+  {
+    "query": "meteor impact hull damage asteroid hit debris collision",
+    "response": "🚨 METEOR IMPACT PROTOCOL\n\n1. Check hull integrity\n2. Seal breached compartments\n3. Assess damage with cameras\n4. Deploy repair drones",
+    "severity": "CRITICAL",
+    "category": "structural"
+  }
+]
